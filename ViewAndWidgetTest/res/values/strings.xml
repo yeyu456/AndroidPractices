@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">Yeyu1</string>
+    <string-array name="countries_array">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American Samoa</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Anguilla</item>
+        <item>Antarctica</item>
+    </string-array>
+    <string name="checkbox1">CHECKED</string>
+    <string name="radio1">Y</string>
+    <string name="radio2">N</string>
+    <string name="radio3">E</string>
+    
+    <string-array name="spinner_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    
+    <string name="pick_time">Timer</string>
+    
+    <string name="menu_item1">Press</string>
+    <string name="menu_item2">Help</string>
+    
+    <string name="search_hint">Search</string>
+
+</resources>
